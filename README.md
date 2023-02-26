@@ -1,1 +1,1 @@
-# Dynamic-Nft
+# Shardeum DNFTs
